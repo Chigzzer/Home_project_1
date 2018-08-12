@@ -13,4 +13,3 @@ def create_password():
         num += 1
     return final_pass
 
-create_password()
