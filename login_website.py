@@ -1,6 +1,6 @@
 import flask
 import logging
-logging.basicConfig(filename="login_web_log.log", level=INFO)
+logging.basicConfig(filename="login_web_log.log", level=logging.INFO)
 log = logging.getLogger(__name__)
 app = flask.Flask(__name__)
 user_names = []

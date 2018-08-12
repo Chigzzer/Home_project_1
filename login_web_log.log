@@ -1,0 +1,8 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 20:05:24] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 20:05:43] "POST /register HTTP/1.1" 200 -

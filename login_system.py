@@ -5,6 +5,7 @@ passwords = []
 logging.basicConfig(filename="login_system_log.log", level=logging.INFO, format="%(asctime)s:%(levelname)s:%(message)s")
 log = logging.getLogger(__name__)
 
+
 def gen_login():
     user_name = input("Please enter your username")
     log.info("User name is inputted by user to system. User : {}".format(user_name))
@@ -29,5 +30,6 @@ def gen_login():
             log.info("User decided to create their own password")
         passwords.append(password)
     print("Thank you for registering, your username is: ({}) and your password is: ({})!".format(user_name, password))
+
 
 gen_login()
