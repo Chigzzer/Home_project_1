@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Log in</title>
+</head>
+<body>
+<h1>Enter your username:</h1>
+<form method="POST" action="/login">
+    <div class="form-group">
+				<input type="text" name = "user"  >
+        <h2>Enter your password:</h2>
+		<input type="password"  name="password" minlength="5" pattern="(?=.*\d)(?=.*[A-Z]).{7,}"
+               title="Minimum of 5 characters. Should have at least one special character and one number."required>
+    </div>
+    <input class="btn btn-primary" type="submit" name = "submit" value="submit" style="width: 150px">
+</form>
+</body>
+</html>

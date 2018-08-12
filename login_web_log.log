@@ -6,3 +6,275 @@ INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 20:05:24] "GET /register HTTP/1.1" 200 
 INFO:__main__:Obtaining the submitted username and password.
 INFO:__main__:Adding the new username and password to the system.
 INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 20:05:43] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:41] "GET /voting HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:43] "GET /home HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:43] "GET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:43] "GET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:43] "GET /home?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:43] "GET /home?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:43] "GET /home?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:44] "GET /home?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:44] "GET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:32:45] "GET /home?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:33:08] "GET /home HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:33:08] "GET /favicon.ico HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:09] "GET /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:09] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:09] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:09] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:09] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:09] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:34:10] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:19] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:19] "GET /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:19] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:19] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:20] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:20] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:20] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:20] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:21] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:29] "GET /results HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:34] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:43] "POST /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Checking if the username is already taken
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:49] "POST /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:53] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:58] "GET /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:58] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:59] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:59] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:59] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:36:59] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:45] "GET /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:45] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:45] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:45] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:45] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:46] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:37:46] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:43] "GET /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:43] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:43] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:43] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:44] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:44] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:51] "GET /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:51] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:51] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:51] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:52] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:52] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:52] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:56] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:38:59] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:07] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:11] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:18] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:18] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:25] "POST /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:26] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:26] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:26] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:26] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:43] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:47] "GET /results HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:49] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:56] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:58] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:39:58] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:04] "POST /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:04] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:04] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:04] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:04] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:04] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:40:05] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:01] "GET /voting HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:03] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:03] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:07] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:11] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:19] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:19] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:23] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:23] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:31] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:35] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:42:35] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:04] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:05] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:09] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:12] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:12] "GET /login HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:23] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:25] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "POST /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:43:35] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:40] "GET /test HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:40] "GET /test?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:40] "GET /test?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:40] "GET /test?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:40] "GET /test?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:40] "GET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:44:41] "GET /test?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:45:50] "GET /results HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:45:52] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:45:52] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:01] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:04] "GET /results HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:06] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:12] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:19] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:19] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:46:19] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:24] "GET /voting HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:32] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:37] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:42] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "POST /login HTTP/1.1" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "GET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "GET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:47] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:57:53] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:58:00] "POST /login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 21:59:55] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:02] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:04] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:10] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:10] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:16] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:49] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:52] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:00:52] "GET /register HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\chira\\Documents\\University\\Python\\Home_project_1\\login_website.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-663-516
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:14] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:14] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:17] "GET /results HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:19] "GET /register HTTP/1.1" 200 -
+INFO:__main__:Obtaining the submitted username and password.
+INFO:__main__:Adding the new username and password to the system.
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:26] "POST /register HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:31] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:36] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:36] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:36] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:41] "POST /login HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:41] "GET /home HTTP/1.1" 302 -
+INFO:werkzeug:127.0.0.1 - - [12/Aug/2018 22:01:41] "GET /login HTTP/1.1" 200 -

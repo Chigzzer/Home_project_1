@@ -1,15 +1,24 @@
 import flask
 import logging
+import os
 logging.basicConfig(filename="login_web_log.log", level=logging.INFO)
 log = logging.getLogger(__name__)
 app = flask.Flask(__name__)
 user_names = []
 passwords = []
+app.secret_key = os.urandom(24)
 
 
+
+@app.route("/test")
+def test():
+    flask.flash("hello")
 @app.route("/home")
 def home():
-    return "Go to /voting to vote and /results to see the current results."
+    if not flask.session.get("logged in"):
+        return flask.redirect("/login")
+    else:
+        return "Go to /voting to vote and /results to see the current results."
 
 
 @app.route("/register", methods=["GET", "POST"])
@@ -27,6 +36,23 @@ def register():
             log.info("Adding the new username and password to the system.")
             return flask.render_template("registered.html")
     return flask.render_template("registering.html")
+
+
+@app.route("/login", methods=["GET", "POST"])
+def login():
+    if flask.request.method == "POST":
+        user = flask.request.form["user"]
+        password = flask.request.form["password"]
+        if user in user_names and password == passwords[user_names.index(user)]:
+            flask.session["Logged in"] = True
+            return flask.redirect("/home")
+        # TODO create a logged in html and check if access home works.
+        else:
+            return flask.redirect("/register")
+    return flask.render_template("log_in.html")
+
+
+
 
 
 if __name__ == "__main__":
